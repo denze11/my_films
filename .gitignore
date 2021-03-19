@@ -1,0 +1,6 @@
+.venv/
+.vscode/
+source_project/
+my_films/__pycache__/
+movies/__pycache__/
+db.sqlite3
